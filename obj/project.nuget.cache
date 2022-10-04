@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w9vK+aTuqI6roQV8PWzX1zXmzwxDCZ2RhR6SogDltEEZuNhQ4jzhlpA2d3hLGoKOFUNavO5KHq1HLDMumAIK0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan\\source\\repos\\mg_Project_03\\mg_Project_03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.263\\monogame.content.builder.task.3.8.1.263.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.263\\monogame.framework.desktopgl.3.8.1.263.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

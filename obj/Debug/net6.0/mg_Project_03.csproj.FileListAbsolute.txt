@@ -1,0 +1,95 @@
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.csproj.AssemblyReference.cache
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\mg_Project_03.exe
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\mg_Project_03.deps.json
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\mg_Project_03.runtimeconfig.json
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\mg_Project_03.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\mg_Project_03.pdb
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.csproj.CopyComplete
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\refint\mg_Project_03.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.pdb
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.genruntimeconfig.cache
+C:\Users\Jonathan\source\repos\mg_Project_03\obj\Debug\net6.0\ref\mg_Project_03.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\Content\btn_0.xnb
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\Content\btn_1.xnb
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\Content\btn_2.xnb
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\Content\ss_32_treeling.xnb
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\Content\ss_64_treeling.xnb
+D:\mg_Project_03\bin\Debug\net6.0\Content\ss_32_treeling.xnb
+D:\mg_Project_03\bin\Debug\net6.0\Content\btn_0.xnb
+D:\mg_Project_03\bin\Debug\net6.0\Content\btn_1.xnb
+D:\mg_Project_03\bin\Debug\net6.0\Content\btn_2.xnb
+D:\mg_Project_03\bin\Debug\net6.0\Content\ss_64_treeling.xnb
+D:\mg_Project_03\bin\Debug\net6.0\Content\tileSet_32x32.xnb
+D:\mg_Project_03\bin\Debug\net6.0\mg_Project_03.exe
+D:\mg_Project_03\bin\Debug\net6.0\mg_Project_03.deps.json
+D:\mg_Project_03\bin\Debug\net6.0\mg_Project_03.runtimeconfig.json
+D:\mg_Project_03\bin\Debug\net6.0\mg_Project_03.dll
+D:\mg_Project_03\bin\Debug\net6.0\mg_Project_03.pdb
+D:\mg_Project_03\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\mg_Project_03\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\mg_Project_03\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\mg_Project_03\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\mg_Project_03\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\mg_Project_03\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\mg_Project_03\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\mg_Project_03\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\mg_Project_03\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\mg_Project_03\obj\Debug\net6.0\mg_Project_03.csproj.AssemblyReference.cache
+D:\mg_Project_03\obj\Debug\net6.0\mg_Project_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\mg_Project_03\obj\Debug\net6.0\mg_Project_03.AssemblyInfoInputs.cache
+D:\mg_Project_03\obj\Debug\net6.0\mg_Project_03.AssemblyInfo.cs
+D:\mg_Project_03\obj\Debug\net6.0\mg_Project_03.csproj.CoreCompileInputs.cache
+D:\mg_Project_03\obj\Debug\net6.0\mg_Project_03.csproj.CopyComplete
+D:\mg_Project_03\obj\Debug\net6.0\mg_Project_03.dll
+D:\mg_Project_03\obj\Debug\net6.0\refint\mg_Project_03.dll
+D:\mg_Project_03\obj\Debug\net6.0\mg_Project_03.pdb
+D:\mg_Project_03\obj\Debug\net6.0\mg_Project_03.genruntimeconfig.cache
+D:\mg_Project_03\obj\Debug\net6.0\ref\mg_Project_03.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\Content\bg_mushroom_test.xnb
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\Content\ss_32_treeling.xnb
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\Content\bg_mushroom_test.xnb
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\Content\btn_0.xnb
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\Content\btn_1.xnb
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\Content\btn_2.xnb
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\Content\ss_64_treeling.xnb
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\Content\tileSet_32x32.xnb
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\mg_Project_03.exe
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\mg_Project_03.deps.json
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\mg_Project_03.runtimeconfig.json
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\mg_Project_03.dll
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\mg_Project_03.pdb
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.csproj.AssemblyReference.cache
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.AssemblyInfoInputs.cache
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.AssemblyInfo.cs
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.csproj.CopyComplete
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.dll
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\refint\mg_Project_03.dll
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.pdb
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\mg_Project_03.genruntimeconfig.cache
+C:\Users\Jonathan Mancor\source\repos\mg_Project_03\obj\Debug\net6.0\ref\mg_Project_03.dll
+C:\Users\Jonathan\source\repos\mg_Project_03\bin\Debug\net6.0\Content\tileSet_32x32_bunker.xnb
